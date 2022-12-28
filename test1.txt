@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E0E8-8A3C
+
+ Directory of C:\Users\USER\Desktop\risk
+
+12/28/2022  12:19 PM    <DIR>          .
+12/28/2022  12:19 PM    <DIR>          ..
+12/28/2022  12:19 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  277,896,249,344 bytes free
